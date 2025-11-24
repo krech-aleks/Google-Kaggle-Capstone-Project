@@ -3,7 +3,7 @@ Capstone Project Writeup
 Track
 Concierge Agents
 
-Problem & Solution Pitch¶
+Problem & Solution Pitch
 Problem
 People often waste time checking the weather and still feel unsure about what to wear - especially in a city like Tokyo, where conditions change quickly.
 
